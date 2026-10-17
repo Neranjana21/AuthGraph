@@ -1,0 +1,10 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.png binary
+*.jpg binary
+*.pptx binary
+*.pdf binary
+*.pt binary
+*.pkl binary
+*.docx binary

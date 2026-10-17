@@ -1,0 +1,9 @@
+{
+ "per_family": 12,
+ "sessions": 4,
+ "batch": 12,
+ "seed": 7,
+ "wasm_taint_drop": 0.5,
+ "out": "data/raw",
+ "headed": false
+}

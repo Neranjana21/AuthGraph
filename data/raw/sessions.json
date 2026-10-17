@@ -1,0 +1,4034 @@
+[
+ {
+  "session_id": "S0001",
+  "extension_id": "EXT028",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0002",
+  "extension_id": "EXT052",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0003",
+  "extension_id": "EXT042",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0004",
+  "extension_id": "EXT137",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0005",
+  "extension_id": "EXT077",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0006",
+  "extension_id": "EXT061",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0007",
+  "extension_id": "EXT104",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0008",
+  "extension_id": "EXT028",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0009",
+  "extension_id": "EXT056",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0010",
+  "extension_id": "EXT077",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0011",
+  "extension_id": "EXT026",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0012",
+  "extension_id": "EXT089",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0013",
+  "extension_id": "EXT046",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0014",
+  "extension_id": "EXT026",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0015",
+  "extension_id": "EXT089",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0016",
+  "extension_id": "EXT046",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0017",
+  "extension_id": "EXT061",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0018",
+  "extension_id": "EXT077",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0019",
+  "extension_id": "EXT042",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0020",
+  "extension_id": "EXT028",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0021",
+  "extension_id": "EXT046",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0022",
+  "extension_id": "EXT026",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0023",
+  "extension_id": "EXT056",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0024",
+  "extension_id": "EXT052",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0025",
+  "extension_id": "EXT089",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0026",
+  "extension_id": "EXT104",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0027",
+  "extension_id": "EXT056",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0028",
+  "extension_id": "EXT063",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0029",
+  "extension_id": "EXT056",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0030",
+  "extension_id": "EXT063",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0031",
+  "extension_id": "EXT061",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0032",
+  "extension_id": "EXT137",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0033",
+  "extension_id": "EXT042",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0034",
+  "extension_id": "EXT063",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0035",
+  "extension_id": "EXT063",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0036",
+  "extension_id": "EXT137",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0037",
+  "extension_id": "EXT077",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0038",
+  "extension_id": "EXT028",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0039",
+  "extension_id": "EXT042",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0040",
+  "extension_id": "EXT052",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0041",
+  "extension_id": "EXT052",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0042",
+  "extension_id": "EXT104",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0043",
+  "extension_id": "EXT089",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0044",
+  "extension_id": "EXT104",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0045",
+  "extension_id": "EXT061",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0046",
+  "extension_id": "EXT026",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0047",
+  "extension_id": "EXT137",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0048",
+  "extension_id": "EXT046",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0049",
+  "extension_id": "EXT091",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0050",
+  "extension_id": "EXT035",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0051",
+  "extension_id": "EXT087",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0052",
+  "extension_id": "EXT097",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0053",
+  "extension_id": "EXT002",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0054",
+  "extension_id": "EXT050",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0055",
+  "extension_id": "EXT113",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0056",
+  "extension_id": "EXT113",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0057",
+  "extension_id": "EXT095",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0058",
+  "extension_id": "EXT050",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0059",
+  "extension_id": "EXT002",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0060",
+  "extension_id": "EXT067",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0061",
+  "extension_id": "EXT087",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0062",
+  "extension_id": "EXT035",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0063",
+  "extension_id": "EXT087",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0064",
+  "extension_id": "EXT097",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0065",
+  "extension_id": "EXT131",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0066",
+  "extension_id": "EXT095",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0067",
+  "extension_id": "EXT095",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0068",
+  "extension_id": "EXT131",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0069",
+  "extension_id": "EXT144",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0070",
+  "extension_id": "EXT017",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0071",
+  "extension_id": "EXT113",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0072",
+  "extension_id": "EXT002",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0073",
+  "extension_id": "EXT067",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0074",
+  "extension_id": "EXT091",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0075",
+  "extension_id": "EXT131",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0076",
+  "extension_id": "EXT067",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0077",
+  "extension_id": "EXT131",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0078",
+  "extension_id": "EXT035",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0079",
+  "extension_id": "EXT091",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0080",
+  "extension_id": "EXT144",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0081",
+  "extension_id": "EXT050",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0082",
+  "extension_id": "EXT087",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0083",
+  "extension_id": "EXT113",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0084",
+  "extension_id": "EXT067",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0085",
+  "extension_id": "EXT091",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0086",
+  "extension_id": "EXT097",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0087",
+  "extension_id": "EXT017",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0088",
+  "extension_id": "EXT050",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0089",
+  "extension_id": "EXT035",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0090",
+  "extension_id": "EXT002",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0091",
+  "extension_id": "EXT095",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0092",
+  "extension_id": "EXT144",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0093",
+  "extension_id": "EXT017",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0094",
+  "extension_id": "EXT097",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0095",
+  "extension_id": "EXT017",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0096",
+  "extension_id": "EXT144",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0097",
+  "extension_id": "EXT111",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0098",
+  "extension_id": "EXT093",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0099",
+  "extension_id": "EXT123",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0100",
+  "extension_id": "EXT034",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0101",
+  "extension_id": "EXT127",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0102",
+  "extension_id": "EXT004",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0103",
+  "extension_id": "EXT136",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0104",
+  "extension_id": "EXT093",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0105",
+  "extension_id": "EXT004",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0106",
+  "extension_id": "EXT127",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0107",
+  "extension_id": "EXT123",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0108",
+  "extension_id": "EXT001",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0109",
+  "extension_id": "EXT034",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0110",
+  "extension_id": "EXT101",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0111",
+  "extension_id": "EXT101",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0112",
+  "extension_id": "EXT123",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0113",
+  "extension_id": "EXT101",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0114",
+  "extension_id": "EXT127",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0115",
+  "extension_id": "EXT092",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0116",
+  "extension_id": "EXT020",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0117",
+  "extension_id": "EXT136",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0118",
+  "extension_id": "EXT127",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0119",
+  "extension_id": "EXT020",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0120",
+  "extension_id": "EXT123",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0121",
+  "extension_id": "EXT034",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0122",
+  "extension_id": "EXT111",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0123",
+  "extension_id": "EXT136",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0124",
+  "extension_id": "EXT105",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0125",
+  "extension_id": "EXT093",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0126",
+  "extension_id": "EXT101",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0127",
+  "extension_id": "EXT004",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0128",
+  "extension_id": "EXT004",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0129",
+  "extension_id": "EXT093",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0130",
+  "extension_id": "EXT111",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0131",
+  "extension_id": "EXT111",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0132",
+  "extension_id": "EXT034",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0133",
+  "extension_id": "EXT001",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0134",
+  "extension_id": "EXT001",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0135",
+  "extension_id": "EXT020",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0136",
+  "extension_id": "EXT092",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0137",
+  "extension_id": "EXT105",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0138",
+  "extension_id": "EXT020",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0139",
+  "extension_id": "EXT105",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0140",
+  "extension_id": "EXT001",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0141",
+  "extension_id": "EXT092",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0142",
+  "extension_id": "EXT136",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0143",
+  "extension_id": "EXT092",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0144",
+  "extension_id": "EXT105",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0145",
+  "extension_id": "EXT135",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0146",
+  "extension_id": "EXT118",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0147",
+  "extension_id": "EXT053",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0148",
+  "extension_id": "EXT045",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0149",
+  "extension_id": "EXT090",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0150",
+  "extension_id": "EXT110",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0151",
+  "extension_id": "EXT031",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0152",
+  "extension_id": "EXT031",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0153",
+  "extension_id": "EXT118",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0154",
+  "extension_id": "EXT090",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0155",
+  "extension_id": "EXT057",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0156",
+  "extension_id": "EXT090",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0157",
+  "extension_id": "EXT107",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0158",
+  "extension_id": "EXT078",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0159",
+  "extension_id": "EXT045",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0160",
+  "extension_id": "EXT118",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0161",
+  "extension_id": "EXT030",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0162",
+  "extension_id": "EXT132",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0163",
+  "extension_id": "EXT053",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0164",
+  "extension_id": "EXT078",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0165",
+  "extension_id": "EXT045",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0166",
+  "extension_id": "EXT110",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0167",
+  "extension_id": "EXT030",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0168",
+  "extension_id": "EXT053",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0169",
+  "extension_id": "EXT078",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0170",
+  "extension_id": "EXT030",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0171",
+  "extension_id": "EXT132",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0172",
+  "extension_id": "EXT110",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0173",
+  "extension_id": "EXT057",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0174",
+  "extension_id": "EXT053",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0175",
+  "extension_id": "EXT031",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0176",
+  "extension_id": "EXT118",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0177",
+  "extension_id": "EXT135",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0178",
+  "extension_id": "EXT090",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0179",
+  "extension_id": "EXT135",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0180",
+  "extension_id": "EXT132",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0181",
+  "extension_id": "EXT132",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0182",
+  "extension_id": "EXT057",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0183",
+  "extension_id": "EXT107",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0184",
+  "extension_id": "EXT031",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0185",
+  "extension_id": "EXT030",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0186",
+  "extension_id": "EXT045",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0187",
+  "extension_id": "EXT107",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0188",
+  "extension_id": "EXT135",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0189",
+  "extension_id": "EXT057",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0190",
+  "extension_id": "EXT110",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0191",
+  "extension_id": "EXT078",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0192",
+  "extension_id": "EXT107",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0193",
+  "extension_id": "EXT043",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0194",
+  "extension_id": "EXT022",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0195",
+  "extension_id": "EXT005",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0196",
+  "extension_id": "EXT022",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0197",
+  "extension_id": "EXT021",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0198",
+  "extension_id": "EXT066",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0199",
+  "extension_id": "EXT128",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0200",
+  "extension_id": "EXT049",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0201",
+  "extension_id": "EXT036",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0202",
+  "extension_id": "EXT065",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0203",
+  "extension_id": "EXT066",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0204",
+  "extension_id": "EXT086",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0205",
+  "extension_id": "EXT086",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0206",
+  "extension_id": "EXT099",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0207",
+  "extension_id": "EXT049",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0208",
+  "extension_id": "EXT036",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0209",
+  "extension_id": "EXT021",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0210",
+  "extension_id": "EXT065",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0211",
+  "extension_id": "EXT049",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0212",
+  "extension_id": "EXT043",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0213",
+  "extension_id": "EXT003",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0214",
+  "extension_id": "EXT066",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0215",
+  "extension_id": "EXT128",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0216",
+  "extension_id": "EXT005",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0217",
+  "extension_id": "EXT066",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0218",
+  "extension_id": "EXT003",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0219",
+  "extension_id": "EXT086",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0220",
+  "extension_id": "EXT003",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0221",
+  "extension_id": "EXT021",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0222",
+  "extension_id": "EXT128",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0223",
+  "extension_id": "EXT022",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0224",
+  "extension_id": "EXT036",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0225",
+  "extension_id": "EXT065",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0226",
+  "extension_id": "EXT049",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0227",
+  "extension_id": "EXT022",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0228",
+  "extension_id": "EXT099",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0229",
+  "extension_id": "EXT128",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0230",
+  "extension_id": "EXT043",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0231",
+  "extension_id": "EXT021",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0232",
+  "extension_id": "EXT036",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0233",
+  "extension_id": "EXT003",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0234",
+  "extension_id": "EXT099",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0235",
+  "extension_id": "EXT005",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0236",
+  "extension_id": "EXT043",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0237",
+  "extension_id": "EXT065",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0238",
+  "extension_id": "EXT086",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0239",
+  "extension_id": "EXT099",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0240",
+  "extension_id": "EXT005",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0241",
+  "extension_id": "EXT033",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0242",
+  "extension_id": "EXT100",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0243",
+  "extension_id": "EXT058",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0244",
+  "extension_id": "EXT058",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0245",
+  "extension_id": "EXT044",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0246",
+  "extension_id": "EXT076",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0247",
+  "extension_id": "EXT044",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0248",
+  "extension_id": "EXT033",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0249",
+  "extension_id": "EXT085",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0250",
+  "extension_id": "EXT058",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0251",
+  "extension_id": "EXT133",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0252",
+  "extension_id": "EXT037",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0253",
+  "extension_id": "EXT133",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0254",
+  "extension_id": "EXT037",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0255",
+  "extension_id": "EXT011",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0256",
+  "extension_id": "EXT084",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0257",
+  "extension_id": "EXT085",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0258",
+  "extension_id": "EXT100",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0259",
+  "extension_id": "EXT033",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0260",
+  "extension_id": "EXT058",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0261",
+  "extension_id": "EXT076",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0262",
+  "extension_id": "EXT100",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0263",
+  "extension_id": "EXT103",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0264",
+  "extension_id": "EXT011",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0265",
+  "extension_id": "EXT103",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0266",
+  "extension_id": "EXT085",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0267",
+  "extension_id": "EXT068",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0268",
+  "extension_id": "EXT033",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0269",
+  "extension_id": "EXT068",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0270",
+  "extension_id": "EXT133",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0271",
+  "extension_id": "EXT037",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0272",
+  "extension_id": "EXT103",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0273",
+  "extension_id": "EXT011",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0274",
+  "extension_id": "EXT044",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0275",
+  "extension_id": "EXT084",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0276",
+  "extension_id": "EXT076",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0277",
+  "extension_id": "EXT011",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0278",
+  "extension_id": "EXT133",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0279",
+  "extension_id": "EXT103",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0280",
+  "extension_id": "EXT076",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0281",
+  "extension_id": "EXT068",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0282",
+  "extension_id": "EXT084",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0283",
+  "extension_id": "EXT068",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0284",
+  "extension_id": "EXT037",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0285",
+  "extension_id": "EXT044",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0286",
+  "extension_id": "EXT085",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0287",
+  "extension_id": "EXT100",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0288",
+  "extension_id": "EXT084",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0289",
+  "extension_id": "EXT041",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0290",
+  "extension_id": "EXT069",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0291",
+  "extension_id": "EXT032",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0292",
+  "extension_id": "EXT143",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0293",
+  "extension_id": "EXT032",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0294",
+  "extension_id": "EXT041",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0295",
+  "extension_id": "EXT125",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0296",
+  "extension_id": "EXT098",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0297",
+  "extension_id": "EXT069",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0298",
+  "extension_id": "EXT096",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0299",
+  "extension_id": "EXT047",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0300",
+  "extension_id": "EXT125",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0301",
+  "extension_id": "EXT143",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0302",
+  "extension_id": "EXT098",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0303",
+  "extension_id": "EXT064",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0304",
+  "extension_id": "EXT060",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0305",
+  "extension_id": "EXT098",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0306",
+  "extension_id": "EXT079",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0307",
+  "extension_id": "EXT079",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0308",
+  "extension_id": "EXT125",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0309",
+  "extension_id": "EXT032",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0310",
+  "extension_id": "EXT047",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0311",
+  "extension_id": "EXT047",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0312",
+  "extension_id": "EXT060",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0313",
+  "extension_id": "EXT125",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0314",
+  "extension_id": "EXT079",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0315",
+  "extension_id": "EXT041",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0316",
+  "extension_id": "EXT060",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0317",
+  "extension_id": "EXT069",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0318",
+  "extension_id": "EXT047",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0319",
+  "extension_id": "EXT064",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0320",
+  "extension_id": "EXT079",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0321",
+  "extension_id": "EXT059",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0322",
+  "extension_id": "EXT098",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0323",
+  "extension_id": "EXT059",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0324",
+  "extension_id": "EXT059",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0325",
+  "extension_id": "EXT143",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0326",
+  "extension_id": "EXT096",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0327",
+  "extension_id": "EXT059",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0328",
+  "extension_id": "EXT064",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0329",
+  "extension_id": "EXT041",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0330",
+  "extension_id": "EXT096",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0331",
+  "extension_id": "EXT064",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0332",
+  "extension_id": "EXT143",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0333",
+  "extension_id": "EXT069",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0334",
+  "extension_id": "EXT032",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0335",
+  "extension_id": "EXT060",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0336",
+  "extension_id": "EXT096",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0337",
+  "extension_id": "EXT116",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0338",
+  "extension_id": "EXT048",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0339",
+  "extension_id": "EXT080",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0340",
+  "extension_id": "EXT027",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0341",
+  "extension_id": "EXT126",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0342",
+  "extension_id": "EXT122",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0343",
+  "extension_id": "EXT122",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0344",
+  "extension_id": "EXT114",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0345",
+  "extension_id": "EXT142",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0346",
+  "extension_id": "EXT048",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0347",
+  "extension_id": "EXT142",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0348",
+  "extension_id": "EXT141",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0349",
+  "extension_id": "EXT048",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0350",
+  "extension_id": "EXT126",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0351",
+  "extension_id": "EXT141",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0352",
+  "extension_id": "EXT009",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0353",
+  "extension_id": "EXT126",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0354",
+  "extension_id": "EXT141",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0355",
+  "extension_id": "EXT139",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0356",
+  "extension_id": "EXT142",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0357",
+  "extension_id": "EXT048",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0358",
+  "extension_id": "EXT139",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0359",
+  "extension_id": "EXT082",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0360",
+  "extension_id": "EXT139",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0361",
+  "extension_id": "EXT009",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0362",
+  "extension_id": "EXT116",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0363",
+  "extension_id": "EXT122",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0364",
+  "extension_id": "EXT082",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0365",
+  "extension_id": "EXT116",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0366",
+  "extension_id": "EXT027",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0367",
+  "extension_id": "EXT139",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0368",
+  "extension_id": "EXT080",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0369",
+  "extension_id": "EXT082",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0370",
+  "extension_id": "EXT142",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0371",
+  "extension_id": "EXT122",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0372",
+  "extension_id": "EXT082",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0373",
+  "extension_id": "EXT009",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0374",
+  "extension_id": "EXT114",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0375",
+  "extension_id": "EXT027",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0376",
+  "extension_id": "EXT114",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0377",
+  "extension_id": "EXT080",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0378",
+  "extension_id": "EXT141",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0379",
+  "extension_id": "EXT116",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0380",
+  "extension_id": "EXT027",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0381",
+  "extension_id": "EXT009",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0382",
+  "extension_id": "EXT080",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0383",
+  "extension_id": "EXT126",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0384",
+  "extension_id": "EXT114",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0385",
+  "extension_id": "EXT088",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0386",
+  "extension_id": "EXT014",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0387",
+  "extension_id": "EXT024",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0388",
+  "extension_id": "EXT115",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0389",
+  "extension_id": "EXT109",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0390",
+  "extension_id": "EXT121",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0391",
+  "extension_id": "EXT054",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0392",
+  "extension_id": "EXT040",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0393",
+  "extension_id": "EXT054",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0394",
+  "extension_id": "EXT109",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0395",
+  "extension_id": "EXT038",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0396",
+  "extension_id": "EXT140",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0397",
+  "extension_id": "EXT040",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0398",
+  "extension_id": "EXT129",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0399",
+  "extension_id": "EXT121",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0400",
+  "extension_id": "EXT088",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0401",
+  "extension_id": "EXT129",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0402",
+  "extension_id": "EXT129",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0403",
+  "extension_id": "EXT140",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0404",
+  "extension_id": "EXT129",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0405",
+  "extension_id": "EXT088",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0406",
+  "extension_id": "EXT038",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0407",
+  "extension_id": "EXT024",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0408",
+  "extension_id": "EXT115",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0409",
+  "extension_id": "EXT115",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0410",
+  "extension_id": "EXT054",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0411",
+  "extension_id": "EXT070",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0412",
+  "extension_id": "EXT088",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0413",
+  "extension_id": "EXT024",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0414",
+  "extension_id": "EXT054",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0415",
+  "extension_id": "EXT115",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0416",
+  "extension_id": "EXT040",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0417",
+  "extension_id": "EXT038",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0418",
+  "extension_id": "EXT121",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0419",
+  "extension_id": "EXT070",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0420",
+  "extension_id": "EXT121",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0421",
+  "extension_id": "EXT024",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0422",
+  "extension_id": "EXT070",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0423",
+  "extension_id": "EXT109",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0424",
+  "extension_id": "EXT070",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0425",
+  "extension_id": "EXT038",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0426",
+  "extension_id": "EXT109",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0427",
+  "extension_id": "EXT140",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0428",
+  "extension_id": "EXT140",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0429",
+  "extension_id": "EXT014",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0430",
+  "extension_id": "EXT014",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0431",
+  "extension_id": "EXT014",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0432",
+  "extension_id": "EXT040",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0433",
+  "extension_id": "EXT081",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0434",
+  "extension_id": "EXT081",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0435",
+  "extension_id": "EXT119",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0436",
+  "extension_id": "EXT120",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0437",
+  "extension_id": "EXT075",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0438",
+  "extension_id": "EXT007",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0439",
+  "extension_id": "EXT006",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0440",
+  "extension_id": "EXT051",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0441",
+  "extension_id": "EXT029",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0442",
+  "extension_id": "EXT072",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0443",
+  "extension_id": "EXT029",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0444",
+  "extension_id": "EXT075",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0445",
+  "extension_id": "EXT029",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0446",
+  "extension_id": "EXT124",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0447",
+  "extension_id": "EXT074",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0448",
+  "extension_id": "EXT072",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0449",
+  "extension_id": "EXT124",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0450",
+  "extension_id": "EXT006",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0451",
+  "extension_id": "EXT074",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0452",
+  "extension_id": "EXT074",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0453",
+  "extension_id": "EXT124",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0454",
+  "extension_id": "EXT075",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0455",
+  "extension_id": "EXT074",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0456",
+  "extension_id": "EXT006",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0457",
+  "extension_id": "EXT006",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0458",
+  "extension_id": "EXT119",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0459",
+  "extension_id": "EXT081",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0460",
+  "extension_id": "EXT120",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0461",
+  "extension_id": "EXT119",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0462",
+  "extension_id": "EXT119",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0463",
+  "extension_id": "EXT007",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0464",
+  "extension_id": "EXT081",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0465",
+  "extension_id": "EXT029",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0466",
+  "extension_id": "EXT120",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0467",
+  "extension_id": "EXT117",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0468",
+  "extension_id": "EXT007",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0469",
+  "extension_id": "EXT051",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0470",
+  "extension_id": "EXT072",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0471",
+  "extension_id": "EXT007",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0472",
+  "extension_id": "EXT117",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0473",
+  "extension_id": "EXT075",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0474",
+  "extension_id": "EXT117",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0475",
+  "extension_id": "EXT117",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0476",
+  "extension_id": "EXT051",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0477",
+  "extension_id": "EXT072",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0478",
+  "extension_id": "EXT124",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0479",
+  "extension_id": "EXT051",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0480",
+  "extension_id": "EXT120",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0481",
+  "extension_id": "EXT062",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0482",
+  "extension_id": "EXT012",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0483",
+  "extension_id": "EXT134",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0484",
+  "extension_id": "EXT112",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0485",
+  "extension_id": "EXT012",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0486",
+  "extension_id": "EXT073",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0487",
+  "extension_id": "EXT018",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0488",
+  "extension_id": "EXT112",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0489",
+  "extension_id": "EXT008",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0490",
+  "extension_id": "EXT106",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0491",
+  "extension_id": "EXT134",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0492",
+  "extension_id": "EXT023",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0493",
+  "extension_id": "EXT071",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0494",
+  "extension_id": "EXT012",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0495",
+  "extension_id": "EXT023",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0496",
+  "extension_id": "EXT071",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0497",
+  "extension_id": "EXT108",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0498",
+  "extension_id": "EXT008",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0499",
+  "extension_id": "EXT073",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0500",
+  "extension_id": "EXT071",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0501",
+  "extension_id": "EXT016",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0502",
+  "extension_id": "EXT062",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0503",
+  "extension_id": "EXT062",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0504",
+  "extension_id": "EXT134",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0505",
+  "extension_id": "EXT108",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0506",
+  "extension_id": "EXT008",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0507",
+  "extension_id": "EXT016",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0508",
+  "extension_id": "EXT106",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0509",
+  "extension_id": "EXT071",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0510",
+  "extension_id": "EXT073",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0511",
+  "extension_id": "EXT062",
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0512",
+  "extension_id": "EXT018",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0513",
+  "extension_id": "EXT073",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0514",
+  "extension_id": "EXT008",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0515",
+  "extension_id": "EXT016",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0516",
+  "extension_id": "EXT108",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0517",
+  "extension_id": "EXT018",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0518",
+  "extension_id": "EXT106",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0519",
+  "extension_id": "EXT023",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0520",
+  "extension_id": "EXT012",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0521",
+  "extension_id": "EXT112",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0522",
+  "extension_id": "EXT018",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0523",
+  "extension_id": "EXT016",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0524",
+  "extension_id": "EXT023",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0525",
+  "extension_id": "EXT112",
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0526",
+  "extension_id": "EXT108",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0527",
+  "extension_id": "EXT134",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0528",
+  "extension_id": "EXT106",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0529",
+  "extension_id": "EXT013",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0530",
+  "extension_id": "EXT094",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0531",
+  "extension_id": "EXT083",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0532",
+  "extension_id": "EXT055",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0533",
+  "extension_id": "EXT039",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0534",
+  "extension_id": "EXT039",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0535",
+  "extension_id": "EXT102",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0536",
+  "extension_id": "EXT138",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0537",
+  "extension_id": "EXT013",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0538",
+  "extension_id": "EXT130",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0539",
+  "extension_id": "EXT083",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0540",
+  "extension_id": "EXT055",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0541",
+  "extension_id": "EXT039",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0542",
+  "extension_id": "EXT138",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0543",
+  "extension_id": "EXT130",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0544",
+  "extension_id": "EXT138",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0545",
+  "extension_id": "EXT102",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0546",
+  "extension_id": "EXT055",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0547",
+  "extension_id": "EXT010",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0548",
+  "extension_id": "EXT130",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0549",
+  "extension_id": "EXT019",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0550",
+  "extension_id": "EXT010",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0551",
+  "extension_id": "EXT083",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0552",
+  "extension_id": "EXT010",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0553",
+  "extension_id": "EXT013",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0554",
+  "extension_id": "EXT102",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0555",
+  "extension_id": "EXT094",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0556",
+  "extension_id": "EXT013",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0557",
+  "extension_id": "EXT025",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0558",
+  "extension_id": "EXT025",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0559",
+  "extension_id": "EXT025",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0560",
+  "extension_id": "EXT094",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0561",
+  "extension_id": "EXT025",
+  "family": "B3_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0562",
+  "extension_id": "EXT130",
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0563",
+  "extension_id": "EXT102",
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0564",
+  "extension_id": "EXT015",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0565",
+  "extension_id": "EXT010",
+  "family": "B1_dom_only",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0566",
+  "extension_id": "EXT094",
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0567",
+  "extension_id": "EXT019",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0568",
+  "extension_id": "EXT055",
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0569",
+  "extension_id": "EXT138",
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0570",
+  "extension_id": "EXT019",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0571",
+  "extension_id": "EXT019",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0572",
+  "extension_id": "EXT039",
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0573",
+  "extension_id": "EXT015",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0574",
+  "extension_id": "EXT015",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ },
+ {
+  "session_id": "S0575",
+  "extension_id": "EXT083",
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "completed": true
+ },
+ {
+  "session_id": "S0576",
+  "extension_id": "EXT015",
+  "family": "B2_storage_settings",
+  "label": 0,
+  "completed": true
+ }
+]

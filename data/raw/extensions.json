@@ -1,0 +1,722 @@
+{
+ "EXT001": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT002": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT003": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT004": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT005": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT006": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT007": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT008": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT009": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT010": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT011": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT012": {
+  "family": "B1_dom_only",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT013": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT014": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT015": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT016": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT017": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT018": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT019": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT020": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT021": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT022": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT023": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT024": {
+  "family": "B2_storage_settings",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT025": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT026": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT027": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 2
+ },
+ "EXT028": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT029": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT030": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT031": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT032": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT033": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT034": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT035": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT036": {
+  "family": "B3_approved_api",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT037": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT038": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT039": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT040": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT041": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT042": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT043": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT044": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT045": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT046": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT047": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT048": {
+  "family": "B4_authed_approved_api",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT049": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT050": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT051": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT052": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT053": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT054": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT055": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT056": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 11
+ },
+ "EXT057": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT058": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT059": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT060": {
+  "family": "B5_cred_read_unrelated_analytics",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT061": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT062": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT063": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT064": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT065": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT066": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 3
+ },
+ "EXT067": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 9
+ },
+ "EXT068": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 7
+ },
+ "EXT069": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 8
+ },
+ "EXT070": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 5
+ },
+ "EXT071": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 6
+ },
+ "EXT072": {
+  "family": "B6_wasm_benign",
+  "label": 0,
+  "n_steps": 4
+ },
+ "EXT073": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT074": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT075": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT076": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT077": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT078": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT079": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT080": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT081": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT082": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT083": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT084": {
+  "family": "S1_direct_cred_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT085": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT086": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT087": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 3
+ },
+ "EXT088": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT089": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT090": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 5
+ },
+ "EXT091": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 5
+ },
+ "EXT092": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT093": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT094": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT095": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT096": {
+  "family": "S2_cred_js_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT097": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT098": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT099": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT100": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT101": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT102": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT103": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT104": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT105": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT106": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT107": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT108": {
+  "family": "S3_cred_wasm_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT109": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT110": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT111": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT112": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT113": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT114": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT115": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 3
+ },
+ "EXT116": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 4
+ },
+ "EXT117": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 2
+ },
+ "EXT118": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 5
+ },
+ "EXT119": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT120": {
+  "family": "S4_cross_component_sink",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT121": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 12
+ },
+ "EXT122": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT123": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT124": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT125": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT126": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 12
+ },
+ "EXT127": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT128": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 6
+ },
+ "EXT129": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 13
+ },
+ "EXT130": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT131": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 12
+ },
+ "EXT132": {
+  "family": "S5_staged_multi_component",
+  "label": 1,
+  "n_steps": 8
+ },
+ "EXT133": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT134": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 5
+ },
+ "EXT135": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 11
+ },
+ "EXT136": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT137": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 9
+ },
+ "EXT138": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 5
+ },
+ "EXT139": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 7
+ },
+ "EXT140": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 10
+ },
+ "EXT141": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 12
+ },
+ "EXT142": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 11
+ },
+ "EXT143": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 12
+ },
+ "EXT144": {
+  "family": "S6_chunked_ip_sink",
+  "label": 1,
+  "n_steps": 9
+ }
+}
